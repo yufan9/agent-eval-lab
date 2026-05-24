@@ -1,3 +1,10 @@
+# AgentEval Lab
+
+**Live Demo:** https://agenteval-lab.netlify.app/  
+**GitHub:** https://github.com/yufan9/agent-eval-lab
+
+AgentEval Lab is an AI Agent evaluation dashboard for customer support launch readiness. It helps AI product managers compare prompt versions, analyze bad cases, and make rollout decisions such as "Do not ship", "Limited rollout", or "Ready to ship".
+
 # Customer Support Agent Evaluation Dashboard
 
 Portfolio-ready Next.js MVP for evaluating a mock AI customer support agent. The product uses deterministic mock data first, so it can demonstrate the AI PM workflow without real customer data, model calls, authentication, or external APIs.
